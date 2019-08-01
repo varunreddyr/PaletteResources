@@ -1,0 +1,32 @@
+Amazon Database 
+Lamda service
+Load Balancer
+Auto Scaling
+S3
+Route 53
+VPC
+Elastic Bean Stalk
+ECS
+ECR
+ELK
+Cloud Formation
+IAM
+SES
+SQS
+----------------------------
+Shell Scripting
+GIT
+Maven
+SonarQube
+Nagios
+JFrog
+Jenkins
+Ansible
+Docker
+Kubernetes
+----------------------------
+Devops Project ( Valaxy technologies)
+Devops Project ( Class Room)
+Interview Questions
+---------------------------------
+Python
